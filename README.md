@@ -1,0 +1,2 @@
+# lics
+license key manager
