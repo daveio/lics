@@ -1,0 +1,13 @@
+name: lics
+version: 0.1.0
+
+authors:
+  - Dave Williams <dave@dave.io>
+
+targets:
+  lics:
+    main: src/lics.cr
+
+crystal: '>= 1.13.3'
+
+license: MIT
